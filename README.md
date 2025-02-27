@@ -1,3 +1,6 @@
+# Welcome to Prince Coder's legend
+About me: https://princecoder000.vercel.app/
+
 # PortAudio - portable audio I/O library
 
 PortAudio is a portable audio I/O library designed for cross-platform
